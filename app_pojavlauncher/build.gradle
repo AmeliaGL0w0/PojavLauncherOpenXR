@@ -123,7 +123,7 @@ android {
 
     buildTypes {
         debug {
-            applicationIdSuffix '.debug'
+            applicationIdSuffix '.debugopenxr'
             minifyEnabled false
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
